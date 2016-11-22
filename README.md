@@ -8,3 +8,7 @@
 **Use cases:**
 * direct input: `./bf "string of brainfuck code"`
 * read from file: `./bf -f filename`
+
+**The repository contains two example files:**
+* hello.txt is a Hello World program.
+* fibonacci.txt is a Fibonacci number generator program.
