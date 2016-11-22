@@ -6,5 +6,5 @@
 * `gcc -o bf main.c`
 
 **Use cases:**
-* direct input: `bf "string of brainfuck code"`
-* read from file: `bf -f filename`
+* direct input: `./bf "string of brainfuck code"`
+* read from file: `./bf -f filename`
