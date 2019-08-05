@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 void interprete_bf(char* pcntr);
 char* read_file(char* fileName);
