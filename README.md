@@ -1,6 +1,6 @@
 # brainfuck_interpreter
 
-**An interpreter for escentric programming language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) written in C.**
+**An interpreter for esoteric programming language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) written in C.**
 
 **On Linux compile with:**
 * `gcc -o bf main.c`
